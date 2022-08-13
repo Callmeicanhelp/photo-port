@@ -1,5 +1,4 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
-
 exports[`Nav component matches snapshot 1`] = `
 <DocumentFragment>
   <header
@@ -33,16 +32,11 @@ exports[`Nav component matches snapshot 1`] = `
             About me
           </a>
         </li>
-        <li>
-          <span>
-            Contact
-          </span>
-        </li>
         <li
-          class="mx-1 false"
+          class="mx-2"
         >
           <span>
-            Portraits
+            Contact
           </span>
         </li>
       </ul>
